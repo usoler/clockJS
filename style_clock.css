@@ -1,0 +1,11 @@
+#clock { 
+	width: 150px;
+	height: 30px;
+	padding: 5px 10px;
+	border: 7px solid #3d3d3d;
+	font: bold 1.5em dotum, "lucida sans", arial;
+	text-align: center;
+	margin: 1em 1em 1em 1em;
+	background-color: #313131;
+	color: #ec5353;
+}
